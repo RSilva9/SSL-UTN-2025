@@ -2,7 +2,7 @@
 
 **Autores de la resolución:** Ramiro Silva
 
-**Github:** @RSilva9
+**Github:** [@RSilva9](https://github.com/RSilva9)
 
 **Legajo:** 2040712
 
