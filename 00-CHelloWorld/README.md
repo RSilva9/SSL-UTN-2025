@@ -1,10 +1,15 @@
 # Información de participantes
 
 **Autores de la resolución:** Ramiro Silva
+
 **Github:** @RSilva9
+
 **Legajo:** 2040712
+
 **Apellido:** Silva
+
 **Nombre:** Ramiro
+
 **TP:** 00 - "Hello, World!" en C
 
 # Enunciado
