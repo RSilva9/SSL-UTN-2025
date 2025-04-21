@@ -1,2 +1,7 @@
-# SSL-UTN-2025
-Repositorio personal público para la asignatura Sintaxis y Semántica de los Lenguajes K2052 año 2025
+# Sintaxis y Semántica de los Lenguajes
+
+**Curso:** K2052 - 2025
+
+**Legajo:** 2040712
+
+**Nombre:** Ramiro Silva
