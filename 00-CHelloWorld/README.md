@@ -100,7 +100,11 @@ Usuario // Usuario GitHub
 -- output.txt // Archivo con la salida del programa
 
 **3.7. Referencia**
-	• [CompiladoresInstalacion]
-	• [KR1988] § 1.1 Comenzado
-	• [CharacterInputOutputRedirection]
-	• [Git101]
+
+• [CompiladoresInstalacion]
+
+• [KR1988] § 1.1 Comenzado
+
+• [CharacterInputOutputRedirection]
+
+• [Git101]
