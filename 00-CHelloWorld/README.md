@@ -1,13 +1,13 @@
-#Información de participantes
+# Información de participantes
 
 **Autores de la resolución:** Ramiro Silva
-**Github:** 
+**Github:** @RSilva9
 **Legajo:** 2040712
 **Apellido:** Silva
 **Nombre:** Ramiro
 **TP:** 00 - "Hello, World!" en C
 
-#Enunciado
+# Enunciado
 
 **3.1. Objetivos**
 	• Demostrar capacidad para editar, compilar, y ejecutar programas C mediante
