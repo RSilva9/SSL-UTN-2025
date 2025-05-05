@@ -113,5 +113,7 @@ Usuario // Usuario GitHub
 # Resolución
 
 **Compilador seleccionado:** GCC
+
 **Versión del compilador:** gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0
+
 **Versión de C:** C23 (c2x)
